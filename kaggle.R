@@ -296,3 +296,5 @@ f1 <- res %>%
   scale_color_manual(name = "Gender", values = c(F = "#DD8D29", M = "#46ACC8"), na.value = "#33A02C") +
   theme_fivethirtyeight() + 
   ggtitle("WH employee median salary($) per Gender vs. Year")
+
+# the code will go to Git repository!
