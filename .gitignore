@@ -1,0 +1,4 @@
+.DS_store
+obama_staff_salaries.csv
+white_house_2017_salaries.csv
+# *.R: meaning all files with .R extension
