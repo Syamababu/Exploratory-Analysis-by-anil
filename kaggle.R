@@ -298,3 +298,4 @@ f1 <- res %>%
   ggtitle("WH employee median salary($) per Gender vs. Year")
 
 # the code will go to Git repository!
+# make use of the git!
